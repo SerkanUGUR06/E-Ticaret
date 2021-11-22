@@ -1,0 +1,31 @@
+﻿@page "/admin/orders"
+@inherits OwningComponentBase<IOrderRepository>
+<OrderTable TableTitle="Gönderilmemiş Siparişler"
+            Orders="UnshippedOrders" ButtonLabel="Ship" OrderSelected="ShipOrder" />
+<OrderTable TableTitle="Gönderilmiş Siparişler"
+            Orders="ShippedOrders" ButtonLabel="Reset" OrderSelected="ResetOrder" />
+<button class="btn btn-info" style="margin-bottom: 500px;" @onclick="@(e => UpdateData())">Verileri yenile</button>
+@code {
+    public IOrderRepository Repository => Service;
+    public IEnumerable<Order> AllOrders { get; set; }
+    public IEnumerable<Order> UnshippedOrders { get; set; }
+    public IEnumerable<Order> ShippedOrders { get; set; }
+    protected async override Task OnInitializedAsync()
+    {
+        await UpdateData();
+    }
+    public async Task UpdateData()
+    {
+        AllOrders = await Repository.Orders.ToListAsync();
+        UnshippedOrders = AllOrders.Where(o => !o.Shipped);
+        ShippedOrders = AllOrders.Where(o => o.Shipped);
+    }
+    public void ShipOrder(int id) => UpdateOrder(id, true);
+    public void ResetOrder(int id) => UpdateOrder(id, false);
+    private void UpdateOrder(int id, bool shipValue)
+    {
+        Order o = Repository.Orders.FirstOrDefault(o => o.OrderID == id);
+        o.Shipped = shipValue;
+        Repository.SaveOrder(o);
+    }
+}

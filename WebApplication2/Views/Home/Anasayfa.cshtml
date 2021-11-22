@@ -1,0 +1,187 @@
+﻿@model IEnumerable<string>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title  -->
+    <title>Anka Online</title>
+
+    <!-- Core Style CSS -->
+    <link rel="stylesheet" href="https://technext.github.io/amado/css/core-style.css">
+    <link rel="stylesheet" href="https://technext.github.io/amado/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <style>
+        #scrollUp {
+            background-color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md bg-color navbar-dark sticky-top">
+        <div class="container" style="padding: 0px;">
+            <a class="navbar-brand" href="index.html"><img src="../Anasayfa/images/logo.png" style="width: 150px; height: auto;"></a>
+            <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collapsenav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="collapsenav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" href="#">
+                            Anasayfa
+                        </a>
+                    </li>
+                    @foreach (string product in Model)
+                    {
+                        <li>
+                            <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Index" asp-controller="Home" asp-route-category="@product" asp-route-productPage="-5">
+                                @product
+                            </a>
+                        </li>
+                    }
+
+                    <li class="nav-item">
+                        <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Login"
+                           asp-controller="Account" asp-route-returnUrl="@ViewContext.HttpContext.Request.PathAndQuery()">
+                            Giriş
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <vc:cart-summary />
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="layout">
+        <div id="deneme" class="carousel slide" data-ride="carousel">
+
+            <ul class="carousel-indicators">
+                <li data-target="#deneme" data-slide-to="0" class="active"></li>
+                <li data-target="#deneme" data-slide-to="1"></li>
+                <li data-target="#deneme" data-slide-to="2"></li>
+            </ul>
+            <div class="carousel-inner" style="color: black; height: 400px; position: relative">
+
+                <div class="carousel-item active">
+                    <div class="bg-image"><img src="../Anasayfa/images/cpu-rwd.jpg.png"></div>
+                    <div class="bg-text" style="margin-top: 0; top: 36%; color: #fff;">
+                        <h1 style="color: #fff;">ANKA ONLINE</h1>
+                        <h5 style="color: #fff;">Bilgisayar ekipmanları ve aksesuarlarında sepette %15'e varan indirim ...</h5>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="bg-image"><img src="../Anasayfa/images/samsung_televizyon_alanlar.jpg"></div>
+                    <div class="bg-text" style="margin-top: 0; top: 25%; color: #fff;">
+                        <h1 style="color: #fff;">ANKA ONLINE</h1>
+                        <h5 style="color: #fff;">Samsung televizyonlarda süper fiyatlar ...</h5>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="bg-image"><img src="../Anasayfa/images/redmi-9_2_1594145521.jpg"></div>
+                    <div class="bg-text" style="margin-top: 0; top: 30%; color: #fff;">
+                        <h1 style="color: #fff;">ANKA ONLINE</h1>
+                        <h5 style="color: #fff;">Xiamoni akıllı telefonlarda %20'e varan indirimler ...</h5>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#deneme" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#deneme" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+    </div>
+
+    <div class="container" style="margin-top: 50px;">
+        <h5 style="text-align: center;color:#000;">ALIŞVERİŞİN UCUZ YOLU ...</h5><br><br>
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-lg-4 col-md-6" style="text-align: center">
+                    <img src="../Anasayfa/images/televizyon/samsung_televiz_1.jpg" style="width: 350px; height: 350px; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;" class="rounded" alt="Cinque Terre" ><br><br>
+                    <h5 style="color: #000; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;">
+                        SAMSUNG UE 43TU8500 43" 108 CM 4K
+                    </h5><br />
+                </div>
+                <div class="col-lg-4 col-md-6" style="text-align: center">
+                    <img src="../Anasayfa/images/telefon/iphone_12.png" style="width: 350px; height: 350px; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;" class="rounded" alt="Cinque Terre" ><br><br>
+                    <h5 style="color: #000; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;">
+                        Apple iPhone 12 Pro 128 GB Pasifik Mavisi
+                    </h5><br />
+                </div>
+                <div class="col-lg-4 col-md-6" style="text-align: center">
+                    <img src="../Anasayfa/images/laptop/dell_1.jpg" style="width: 350px; height: 350px; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;" class="rounded" alt="Cinque Terre" ><br><br>
+                    <h5 style="color: #000; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;">
+                        Hp 8UB74EA 24-f0042nt İ5-9400T 8Gb 1Tb 23.8" FullHD All İn One
+                    </h5><br />
+                </div>
+                <div class="col-lg-4 col-md-6" style="text-align: center">
+                    <img src="../Anasayfa/images/sarf/msi_1.jpg" style="width: 350px; height: 350px; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;" class="rounded" alt="Cinque Terre" ><br><br>
+                    <h5 style="color: #000; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;">
+                        MSI MPG X570 GAMING PLUS 4400MHz(OC) DDR4
+                    </h5><br />
+                </div>
+                <div class="col-lg-4 col-md-6" style="text-align: center">
+                    <img src="../Anasayfa/images/televizyon/vestel_1.jpg" style="width: 350px; height: 350px; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;" class="rounded" alt="Cinque Terre" ><br><br>
+                    <h5 style="color: #000; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;">
+                        Vestel 40FD5050 40 inc 102 Ekran Uydu Alıcılı Full HD LED
+                    </h5><br />
+                </div>
+                <div class="col-lg-4 col-md-6" style="text-align: center">
+                    <img src="../Anasayfa/images/laptop/asus_1.jpg" style="width: 350px; height: 350px; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;" class="rounded" alt="Cinque Terre" ><br><br>
+                    <h5 style="color: #000; border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;">
+                        HP PAVILION GRI 15-CS1011NT COREİ5 8265U 1.6GHZ-8GB
+                    </h5><br />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="margin-top: 50px;">
+        <h5 style="text-align: center;color:#000;">SOSYAL MEDYADAN TAKİPTE KALIN...</h5><br><br>
+        <center>
+            <a href="#"><img src="../Anasayfa/images/sosyal1.png" class="sosyal" width="65px" height="65px"></a>
+            <a href="#"><img src="../Anasayfa/images/sosyal2.png" width="70px" height="70px"></a>
+            <a href="#"><img src="../Anasayfa/images/sosyal3.png" width="60px" height="60px"></a>
+            <a href="#"><img src="../Anasayfa/images/sosyal4.png" width="60px" height="60px"></a>
+        </center>
+    </div>
+
+    <footer style="background-color:black;color: white; margin-top: 50px;">
+        <div class="container" style="padding: 25px;">
+            <h5 style="text-align: center; color: #fff; font-size: 15px; font-weight: lighter;">© Copyright 2020 All Rights Reserved. Designed by Serkan UĞUR & Murat Gökhan OLGUNÖZ<br>Anka Online</h5>
+        </div>
+    </footer>
+
+    <script src="https://technext.github.io/amado/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="https://technext.github.io/amado/js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="https://technext.github.io/amado/js/bootstrap.min.js"></script>
+    <!-- Plugins js -->
+    <script src="https://technext.github.io/amado/js/plugins.js"></script>
+    <!-- Active js -->
+    <script src="https://technext.github.io/amado/js/active.js"></script>
+
+</body>
+
+</html>

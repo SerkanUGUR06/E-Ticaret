@@ -1,0 +1,52 @@
+﻿@page "/admin"
+@{ Layout = null; }
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Anka Online Admin</title>
+    <link href="/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <base href="/" />
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+    <link src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css"/>
+    <link src="https://cdn.datatables.net/1.10.23/css/dataTables.bootstrap4.min.css"/>
+</head>
+<body>
+
+    <div class="text-white p-2" style="background: #000;">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col">
+                    <span class="navbar-brand ml-2"><a class="navbar-brand" href=""><img src="../Anasayfa/images/logo.png" style="width: 150px; height: auto; color: #fff;"></a></span>
+                </div>
+                <div class="col-2 text-right">
+                    <a class="btn btn-sm btn-danger" style="margin-top: 25px;" href="/account/logout"><i class="fa fa-power-off"></i>&nbsp;Çıkış</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <component type="typeof(Routed)" render-mode="Server" />
+
+    <footer style="background-color:black;color: white; margin-top: 50px;">
+        <div class="container" style="padding: 25px;">
+            <h5 style="text-align: center; color: #fff; font-size: 15px; font-weight: lighter;">© Copyright 2020 All Rights Reserved. Designed by Serkan UĞUR & Murat Gökhan OLGUNÖZ<br>Anka Online</h5>
+        </div>
+    </footer>
+
+    <script src="/_framework/blazor.server.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable();
+        });
+    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.23/js/dataTables.bootstrap4.min.js"></script>
+</body>
+</html>

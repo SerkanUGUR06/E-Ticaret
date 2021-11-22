@@ -1,0 +1,20 @@
+﻿
+@model WebApplication2.Models.ViewModels.ProductsListViewModel
+
+
+    <div class="container-fluid">
+        <div class="row">
+
+            @foreach (var p in Model.Products)
+            {
+                <partial name="ProductSummary" model="p" />
+            }
+
+        </div>
+    </div>
+
+<div page-model="@Model.PagingInfo" page-action="Index" page-classes-enabled="true"
+     page-class="btn" page-class-normal="btn-outline-dark"
+     page-class-selected="btn-success" page-url-category="@Model.CurrentCategory"
+     class="btn-group pull-right m-1">
+</div>

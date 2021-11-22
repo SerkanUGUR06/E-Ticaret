@@ -1,0 +1,35 @@
+﻿@model Product
+
+    <!-- Single Product Area -->
+    <div class="col-12 col-sm-6 col-md-12 col-xl-3" style="padding: 10px;">
+        <div class="single-product-wrapper" style="border: 1px solid #ccc; border-radius: 5px; -webkit-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); -moz-box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); box-shadow: 0px 0px 12px 0px rgba(50, 50, 50, 0.75); padding: 20px;">
+            <!-- Product Image -->
+            <div class="product-img">
+                <img class="img-fluid img-fluid" style="widht: 250px; height: 400px;" src="@Model.ImgPath" alt="">
+            </div>
+
+            <!-- Product Description -->
+            <div class="product-description d-flex align-items-center justify-content-between">
+                <!-- Product Meta Data -->
+                <div class="product-meta-data">
+                    <p class="product-price text-success">@Model.Price.ToString().Split(',')[0] TL</p>
+                    <a href="product-details.html">
+                        <h6 style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">@Model.Name</h6>
+                    </a>
+                </div>
+                <!-- Ratings & Cart -->
+                <div class="ratings-cart text-right">                    
+                    <div class="cart">
+                        <form id="@Model.ProductID" asp-controller="Home" asp-action="OnPost" method="post">
+                            <input type="hidden" name="productID" value="@Model.ProductID" id="@Model.ProductID" />
+                            <input type="hidden" name="returnUrl"
+                                   value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+                            <button type="submit" class="btn btn-dark"><i class="fas fa-cart-plus"></i>&nbsp;Sepete Ekle</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <span>@Model.Description</span>
+        </div>
+    </div>

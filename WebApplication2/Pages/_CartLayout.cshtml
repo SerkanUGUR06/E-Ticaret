@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Anka Online</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css" rel="stylesheet" />
+
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+    <!-- Core Style CSS -->
+    <link rel="stylesheet" href="https://technext.github.io/amado/css/core-style.css">
+    <link rel="stylesheet" href="https://technext.github.io/amado/style.css">
+
+    <style>
+        #scrollUp {
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Mobile Nav (max width 767px)-->
+    <nav class="navbar navbar-expand-md bg-color navbar-dark sticky-top" style="background: #000 !important;">
+        <div class="container" style="padding: 0px;">
+            <a class="navbar-brand" href="index.html"><img src="../Anasayfa/images/logo.png" style="width: 150px; height: auto;"></a>
+            <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collapsenav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="collapsenav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Index"
+                           asp-controller="Home" asp-route-returnUrl="@ViewContext.HttpContext.Request.PathAndQuery()">
+                            Anasayfa
+                        </a>
+                    </li>
+
+                    @foreach (string item in @Model.asd)
+                    {
+                        <li class="nav-item">
+                            <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Index"
+                               asp-controller="Home" asp-route-category="@item" asp-route-productPage="-5">
+                                @item
+                            </a>
+                        </li>
+                    }
+
+                    <li class="nav-item">
+                        <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Login"
+                           asp-controller="Account" asp-route-returnUrl="@ViewContext.HttpContext.Request.PathAndQuery()">
+                            Giriş
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <vc:cart-summary />
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="m-1 p-1">
+        @RenderBody()
+    </div>
+
+    <footer style="background-color:black;color: white; margin-top: 650px;">
+        <div class="container" style="padding: 25px;">
+            <h5 style="text-align: center; color: #fff; font-size: 15px; font-weight: lighter;">© Copyright 2020 All Rights Reserved. Designed by Serkan UĞUR & Murat Gökhan OLGUNÖZ<br>Anka Online</h5>
+        </div>
+    </footer>
+</body>
+</html>

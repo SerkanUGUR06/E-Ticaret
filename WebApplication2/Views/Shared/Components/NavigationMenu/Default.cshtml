@@ -1,0 +1,42 @@
+﻿@model IEnumerable<string>
+@{
+    bool durum = true;
+    foreach (string category in Model)
+    {
+        if (category == ViewBag.SelectedCategory)
+        {
+            durum = false;
+            break;
+        }
+    }
+}
+@if (durum)
+{
+    <li class="active">
+        <a class="btn btn-block" asp-action="Index"
+           asp-controller="Home" asp-route-category="Hepsi" asp-route-productPage="-6">
+             <i class="fa fa-bars"></i> &nbsp; Tüm Markalar
+        </a>
+    </li>
+}
+else
+{
+    <li>
+        <a class="btn btn-block" asp-action="Index"
+           asp-controller="Home" asp-route-category="Hepsi" asp-route-productPage="-6">
+            <i class="fa fa-bars"></i> &nbsp;  Tüm Markalar
+        </a>
+    </li>
+}
+
+@foreach (string category in Model)
+{<li class="@(category == ViewBag.SelectedCategory
+        ? "active": "")">
+        <a class="btn btn-block"
+           asp-action="Index" asp-controller="Home"
+           asp-route-category="@category"
+           asp-route-productPage="1">
+            @category
+        </a>
+    </li>
+}

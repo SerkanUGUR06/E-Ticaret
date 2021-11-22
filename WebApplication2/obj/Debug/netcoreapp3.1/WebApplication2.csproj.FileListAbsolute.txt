@@ -1,0 +1,1016 @@
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.output.cache
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\myPc\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.output.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+C:\Users\murat\Desktop\cc0118eb-47f7-44e0-b2c1-cfe76ecbaa78\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.output.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.output.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+C:\Users\Emrullah\Desktop\web final\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\serkan\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.output.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\WebApplication2\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\serkan\Desktop\web proje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.output.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\murat\Desktop\webproje\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.genruntimeconfig.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.exe
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.deps.json
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.json
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.pdb
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorComponent.input.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication2.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.input.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.TagHelpers.output.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorCoreGenerate.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anasayfa.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.AssemblyInfo.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.Views.pdb
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.csproj.CopyComplete
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.dll
+C:\Users\serkan\Desktop\Web Programlama  Final Ödevi - 172119010 - 172119015\Web Programalama Proje\WebApplication2\obj\Debug\netcoreapp3.1\WebApplication2.pdb

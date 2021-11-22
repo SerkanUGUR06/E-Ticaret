@@ -1,0 +1,80 @@
+﻿@model Order
+<h2>Bilgileriniz</h2>
+<p>Lütfen bilgilerinizi girin, ürünlerinizi hemen gönderelim!</p>
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="container" style="padding-left: 0; display: block; margin-left: 0; margin-right: auto;">
+    <form asp-action="Checkout" method="post" style="margin-bottom: 500px;">
+        <div class="row">
+            <div class="col">
+                <h3>Alıcı</h3>
+                <div class="form-group">
+                    <input placeholder="İsim" asp-for="Name" class="form-control" />
+                </div>
+            </div>
+            <div class="col">
+                <h3>Adres</h3>
+                <div class="form-group">
+                    <input placeholder="Adres 1" asp-for="Line1" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <div class="form-group">
+                    <input placeholder="Adres 2" asp-for="Line2" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <div class="form-group">
+                    <input placeholder="Adres 3" asp-for="Line3" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <div class="form-group">
+                    <input placeholder="Şehir" asp-for="City" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <div class="form-group">
+                    <input placeholder="Devlet" asp-for="State" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <div class="form-group">
+                    <input placeholder="Ülke" asp-for="Country" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <div class="form-group">
+                    <input placeholder="Posta Kodu" asp-for="Zip" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center">
+            <input class="btn btn-primary" type="submit" value="Siparişi Tamamla" />
+        </div>
+    </form>
+</div>

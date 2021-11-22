@@ -1,0 +1,65 @@
+﻿@page
+@model CartModel
+
+<div class="container">
+    <div class="row">
+        <h2 class="row"><i class="fa fa-shopping-cart"></i>&nbsp;Sepetim</h2>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 col-md-10 col-md-offset-1">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Ürün</th>
+                        <th>Adet</th>
+                        <th class="text-center">Birim Fiyat</th>
+                        <th class="text-center">Ara Toplam</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var line in Model.Cart.Lines)
+                    {
+                        <tr>
+                            <td class="col-sm-8 col-md-6">
+                                <div class="media">
+                                    <a class="thumbnail pull-left" href="#"> <img class="media-object" src="@line.Product.ImgPath" style="width: 72px; height: 72px;"> </a>
+                                    <div class="media-body">
+                                        <h1 class="media-heading"><a href="#">@line.Product.Name</a></h1>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="col-sm-1 col-md-1" style="text-align: center">
+                                <input type="text" class="form-control-plaintext"value="@line.Quantity">
+                            </td>
+                            <td class="col-sm-1 col-md-1 text-center"><strong>@line.Product.Price.ToString()</strong></td>
+                            <td class="col-sm-1 col-md-1 text-center"><strong>@((line.Quantity * line.Product.Price).ToString())</strong></td>
+                            <td class="col-sm-1 col-md-1 text-center">
+                                <form asp-action="Remove" asp-controller="Home" method="post">
+                                    <input type="hidden" name="productId"
+                                           value="@line.Product.ProductID" />
+                                    <input type="hidden" name="returnUrl"
+                                           value="@Model.ReturnUrl" />
+                                    <button type="submit" class="btn btn-sm btn-danger">Sipariş Sil</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3" class="text-right">Toplam :</td>
+                        <td class="text-right">
+                            @Model.Cart.ComputeTotalValue().ToString()
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+
+            <div class="text-center">
+                <a class="btn btn-secondary" href="@Model.ReturnUrl">Alıverişe Devam Et</a>
+                <a class="btn btn-success" asp-action="Checkout" asp-controller="Order">Ödeme</a>
+            </div>
+        </div>
+    </div>
+</div>

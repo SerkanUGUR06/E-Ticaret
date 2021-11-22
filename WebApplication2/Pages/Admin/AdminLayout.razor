@@ -1,0 +1,19 @@
+﻿@inherits LayoutComponentBase
+
+<div class="container-fluid" style="padding: 25px 100px; margin-top: 25px;">
+    <div class="row p-2">
+        <div class="col-8">
+            <div class="row">
+                <div class="col-6">
+                    <NavLink class="btn btn-success btn-block" href="/admin/products" ActiveClass="btn-primary text-white" Match="NavLinkMatch.Prefix"><i class="fa fa-bars"></i>&nbsp;Ürünler</NavLink>
+                </div>
+                <div class="col-6">
+                    <NavLink class="btn btn-success btn-block" href="/admin/orders" ActiveClass="btn-primary text-white" Match="NavLinkMatch.Prefix"><i class="fa fa-bars"></i>&nbsp;Siparişler</NavLink>
+                </div>
+            </div>
+        </div>
+        <div class="col-12" style="margin-top: 25px;">  
+            @Body
+        </div>
+    </div>
+</div>

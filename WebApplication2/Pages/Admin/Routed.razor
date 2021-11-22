@@ -1,0 +1,10 @@
+﻿<Router AppAssembly="typeof(Startup).Assembly">
+    <Found>
+        <RouteView RouteData="@context" DefaultLayout="typeof(AdminLayout)" />
+    </Found>
+    <NotFound>
+        <h4 class="bg-danger text-white text-center p-2">
+            Eşleşen Bir link Bulunamadı
+        </h4>
+    </NotFound>
+</Router>

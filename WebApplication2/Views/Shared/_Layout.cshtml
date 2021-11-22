@@ -1,0 +1,144 @@
+﻿    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <!-- Title  -->
+        <title>Anka Online</title>
+
+        <!-- Core Style CSS -->
+        <link rel="stylesheet" href="https://technext.github.io/amado/css/core-style.css">
+        <link rel="stylesheet" href="https://technext.github.io/amado/style.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" />
+
+        <style>
+            #asd {
+                width: 100%;
+            }
+
+                #asd li a {
+                    background: #ccc;
+                    margin: 5px;
+                    text-align center;
+                    color: #000;
+                    cursor: pointer;
+                    transition: all 1s;
+                    font-weight: lighter;
+                    font-size: 15px;
+                }
+
+                    #asd li a:hover {
+                        background: #000;
+                        transition: all 1s;
+                        text-transform: none;
+                        color: #fff !important;
+                        font-size: 15px;
+                    }
+        </style>
+
+        <style>
+            #scrollUp {
+                background-color: green;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+    <!-- Mobile Nav (max width 767px)-->
+    <nav class="navbar navbar-expand-md bg-color navbar-dark sticky-top" style="background: #000 !important;">
+        <div class="container" style="padding: 0px;">
+            <a class="navbar-brand" asp-action="Index" asp-controller="Home" asp-route-category="" asp-route-productPage="-7"><img src="../Anasayfa/images/logo.png" style="width: 150px; height: auto;"></a>
+            <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collapsenav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="collapsenav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Index"
+                           asp-controller="Home" asp-route-category="" asp-route-productPage="-7">
+                            AnaSayfa
+                        </a>
+                    </li>
+
+                    @foreach (string item in ViewBag.asd)
+                    {
+                        <li class="nav-item">
+                            <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Index"
+                               asp-controller="Home" asp-route-category="@item" asp-route-productPage="-5">
+                                @item
+                            </a>
+                        </li>
+                    }
+
+                    <li class="nav-item">
+                        <a style="font-size: 15px; font-weight: lighter; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-action="Login"
+                           asp-controller="Account" asp-route-returnUrl="@ViewContext.HttpContext.Request.PathAndQuery()">
+                            Giriş
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <vc:cart-summary />
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Wrapper Area End -->
+    <!-- ##### Main Content Wrapper Start ##### -->
+    <div class="main-content-wrapper d-flex clearfix" style="margin-bottom: 500px;">
+        <div style="margin-right:-5px;">
+
+            <!-- Header Area Start -->
+            <header class="header-area clearfix" style="padding-left: 20px; padding-right: 0;">
+                <!-- Close Icon -->
+                <div class="nav-close">
+                    <i class="fa fa-close" aria-hidden="true"></i>
+                </div>
+
+                <!-- Amado Nav -->
+                <nav>
+                    <ul id="asd">
+                        <vc:navigation-menu />
+                    </ul>
+                </nav>
+            </header>
+        </div>
+        <!-- Header Area End -->
+        <!-- Product Catagories Area Start -->
+        <div class="products-catagories-area clearfix">
+            <div class="clearfix" style="padding-left: 25px; padding-top: 50px;">
+                @RenderBody()
+            </div>
+        </div>
+        <!-- Product Catagories Area End -->
+    </div>
+
+    <footer class="fixed-bottom" style="background-color:black;color: white; margin-top: 50px;">
+        <div class="container" style="padding: 25px;">
+            <h5 style="text-align: center; color: #fff; font-size: 15px; font-weight: lighter;">© Copyright 2020 All Rights Reserved. Designed by Serkan UĞUR & Murat Gökhan OLGUNÖZ<br>Anka Online</h5>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+    <!-- ##### jQuery (Necessary for All JavaScript Plugins) ##### -->
+    <script src="https://technext.github.io/amado/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="https://technext.github.io/amado/js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="https://technext.github.io/amado/js/bootstrap.min.js"></script>
+    <!-- Plugins js -->
+    <script src="https://technext.github.io/amado/js/plugins.js"></script>
+    <!-- Active js -->
+    <script src="https://technext.github.io/amado/js/active.js"></script>
+
+</body>
+
+</html>

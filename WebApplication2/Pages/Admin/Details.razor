@@ -1,0 +1,28 @@
+﻿@page "/admin/products/details/{id:long}"
+<h3 class="bg-info text-white text-center p-1">Detaylar</h3>
+<table class="table table-sm table-bordered table-striped">
+    <tbody>
+        <tr><th>ID</th><td>@Product.ProductID</td></tr>
+        <tr><th>Ürün</th><td>@Product.Name</td></tr>
+        <tr><th>Açıklama</th><td>@Product.Description</td></tr>
+        <tr><th>Kategori</th><td>@Product.Category</td></tr>
+        <tr><th>Fiyat</th><td>@Product.Price.ToString("C")</td></tr>
+        <tr><th>Ana Kategori</th><td>@Product.MainCategory</td></tr>
+        <tr><th>Görsel</th><td>@Product.ImgPath</td></tr>
+    </tbody>
+</table>
+<NavLink class="btn btn-warning" href="@EditUrl"><i class="fa fa-edit"></i>&nbsp;Düzenle</NavLink>
+<NavLink class="btn btn-secondary" href="/admin/products"><i class="fas fa-arrow-left"></i>&nbsp;Geri</NavLink>
+<div style="margin-bottom: 500px;"></div>
+@code {
+    [Inject]
+    public IStoreRepository Repository { get; set; }
+    [Parameter]
+    public long Id { get; set; }
+    public Product Product { get; set; }
+    protected override void OnParametersSet()
+    {
+        Product = Repository.Products.FirstOrDefault(p => p.ProductID == Id);
+    }
+    public string EditUrl => $"/admin/products/edit/{Product.ProductID}";
+}

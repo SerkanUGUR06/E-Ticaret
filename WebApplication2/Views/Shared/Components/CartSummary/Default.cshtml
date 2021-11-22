@@ -1,0 +1,26 @@
+﻿@model Cart    
+
+<div class="btn-group">
+    <button type="button" class="btn btn-success btn-sm" style="padding: 0">
+        <a style="font-size: 15px; font-weight: lighter; margin: 0; letter-spacing: 1px; font-family: 'Open Sans'" class="nav-link" asp-page="/Cart" asp-route-returnurl="@ViewContext.HttpContext.Request.PathAndQuery()"><i class="fa fa-shopping-cart"></i>&nbsp;Sepetim</a>
+    </button>
+    <button type="button" class="btn btn-success btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <span class="sr-only">Toggle Dropdown</span>
+    </button>
+    <div class="dropdown-menu" style="padding: 15px;">
+        @if (Model.Lines.Count() > 0)
+        {
+            <small class="navbar-text text-dark">
+                <b>Sepetiniz :</b>
+                @Model.Lines.Sum(x => x.Quantity) ürün(s)
+                @Model.ComputeTotalValue().ToString("c")
+            </small>
+        }
+
+        else
+        {
+            <small><span class="badge badge-dark">Sepetinizde hiç ürün bulunmamaktadır.</span></small>
+        }
+    </div>
+</div>
+

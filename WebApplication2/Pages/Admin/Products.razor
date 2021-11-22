@@ -1,0 +1,77 @@
+﻿@page "/admin/products"
+@page "/admin"
+@inherits OwningComponentBase<IStoreRepository>
+
+<div class="table-responsive">
+    <table id="example" class="table table-sm table-bordered nowrap text-center">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Ürün</th>
+                <th>Kategori</th>
+                <th>Fiyat</th>
+                <th>Ana Kategori</th>
+                <th>Görsel</th>
+                <td />
+            </tr>
+        </thead>
+        <tbody>
+            @if (ProductData?.Count() > 0)
+            {
+                @foreach (Product p in ProductData)
+                {
+                    <tr>
+                        <td>@p.ProductID</td>
+                        <td>@p.Name</td>
+                        <td>@p.Category</td>
+                        <td>@p.Price.ToString("c")</td>
+                        <td>@p.MainCategory</td>
+                        <td>@p.ImgPath</td>
+                        <td>
+                            <NavLink class="btn btn-dark btn-sm"
+                                     href="@GetDetailsUrl(p.ProductID)">
+                                <i class="fas fa-list"></i>&nbsp;Detaylar
+                            </NavLink>
+                            <NavLink class="btn btn-warning btn-sm"
+                                     href="@GetEditUrl(p.ProductID)">
+                                <i class="fas fa-edit"></i>&nbsp;Düzenle
+                            </NavLink>
+                            <button class="btn btn-danger btn-sm"
+                                    @onclick="@(e => DeleteProduct(p))">
+                                <i class="fa fa-trash-alt"></i>&nbsp;Sil
+                            </button>
+                        </td>
+
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5" class="text-center">Hiçbir ürün bulunamadı</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<NavLink class="btn btn-primary" href="/admin/products/create"><i class="fa fa-plus"></i>&nbsp;Ürün Ekle</NavLink>
+<div style="margin-bottom: 500px;"></div>
+@code {
+    public IStoreRepository Repository => Service;
+    public IEnumerable<Product> ProductData { get; set; }
+    protected async override Task OnInitializedAsync()
+    {
+        await UpdateData();
+    }
+    public async Task UpdateData()
+    {
+        ProductData = await Repository.Products.ToListAsync();
+    }
+    public async Task DeleteProduct(Product p)
+    {
+        Repository.DeleteProduct(p);
+        await UpdateData();
+    }
+    public string GetDetailsUrl(long id) => $"/admin/products/details/{id}";
+    public string GetEditUrl(long id) => $"/admin/products/edit/{id}";
+}

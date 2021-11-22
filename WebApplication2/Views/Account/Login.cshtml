@@ -1,0 +1,62 @@
+﻿@model LoginModel
+@{ Layout = null; }
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Anka Online</title>
+    <link href="/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+</head>
+<body>
+    <div class="text-white p-2" style="background: #000;">
+        <span class="navbar-brand ml-2"><a class="navbar-brand" href="index.html"><img src="../Anasayfa/images/logo.png" style="width: 150px; height: auto; color: #fff;"></a></span>
+    </div>
+
+    <div class="container" style="margin-top: 100px;">
+        <div class="row card" style="border: none;">
+            <article class="card-body offset-md-4 col-md-4" style="border: 1px solid lightgray; border-radius: 10px;">
+                <h4 class="card-title text-center mb-4 mt-1">Giriş</h4>
+                <hr />
+
+                <div class="text-danger" asp-validation-summary="All"></div>
+                <form asp-action="Login" asp-controller="Account" method="post">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" asp-for="ReturnUrl" />
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"> <i class="fa fa-user"></i> </span>
+                            </div>
+                            <input asp-for="Name" class="form-control" placeholder="Kullanıcı Adı" type="text">
+                            <div asp-validation-for="Name" class="text-danger"></div>
+                        </div> <!-- input-group.// -->
+                    </div> <!-- form-group// -->
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"> <i class="fa fa-lock"></i> </span>
+                            </div>
+                            <input asp-for="Password" type="password" class="form-control" placeholder="Şifre">
+                            <div asp-validation-for="Password" class="text-danger"></div>
+                        </div> <!-- input-group.// -->
+                    </div> <!-- form-group// -->
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-block">Giriş</button>
+                    </div> <!-- form-group// -->
+                </form>
+            </article>
+        </div> <!-- card.// -->
+    </div>
+
+    <footer class="fixed-bottom" style="background-color:black;color: white; margin-top: 50px;">
+        <div class="container" style="padding: 25px;">
+            <h5 style="text-align: center; color: #fff; font-size: 15px; font-weight: lighter;">© Copyright 2020 All Rights Reserved. Designed by Serkan UĞUR & Murat Gökhan OLGUNÖZ<br>Anka Online</h5>
+        </div>
+    </footer>
+</body>
+</html>
